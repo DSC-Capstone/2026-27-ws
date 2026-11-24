@@ -23,7 +23,7 @@ nav_order: 2
 
 ## Overview
 
-Welcome to the capstone program! The capstone program is a **two-quarter sequence** (Fall 2026 and Winter 2027) in which you will be mentored by a faculty or industry expert(s) in their domain of expertise. By the end of Quarter 2, you will design and execute a project from that domain in teams of 2-4. You can see the projects from last year [here](https://dsc-capstone.github.io/showcase-26/), and from all prior years [here](../archive).
+Welcome to the capstone program! The capstone program is a **two-quarter sequence** in which you will be mentored by a faculty or industry expert(s) in their domain of expertise. By the end of Quarter 2, you will design and execute a project from that domain in teams of 2-4. You can see the projects from last year [here](https://dsc-capstone.github.io/showcase-26/), and from all prior years [here](../archive).
 
 At a high level, here's how the capstone program is organized:
 - In Quarter 1 (DSC 180A), you will gain background information in your chosen domain by working on a guided project (e.g. a paper replication) under the supervision of your mentor. By the end of Quarter 1, not only will you have you completed a guided project (your "Quarter 1 Project"), but you will write a proposal for a more independent project (known as the "Quarter 2 Project", or the capstone project).
@@ -33,19 +33,19 @@ Throughout Quarter 1, there is also a "methodology" component that supplements y
 
 ---
 
-# Quarter 1 (DSC 180A, Fall 2026)
+# Quarter 1 (DSC 180A)
 
 ## Getting Started
 
 Before the quarter begins:
 
-- Confirm the date and time of your discussion section on the [Enrollment](https://dsc-capstone.org/enrollment), as it may have been updated since you last checked.
-    - **Note that sections begin the week of Monday, September 24th** You **must** attend your discussion section each week. Your mentors will mark attendance for discussion sessions and any loss of attendance will reflect on the participation grade. 
+- Confirm the date and time of your discussion section on the [Enrollment](https://dsc-capstone.org/domains-winter-spring), as it may have been updated since you last checked.
+    - **Note that sections begin the first week of classes** You **must** attend your discussion section each week. Your mentors will mark attendance for discussion sessions and any loss of attendance will reflect on the participation grade. 
     - If your section is being held on Zoom, your mentor should reach out to you before your first section with the link. If you do not hear from your mentor before the quarter begins, reach out on your own. It is YOUR responsbility to get this set up with your mentor. 
 - Note that there is **only one live lecture this quarter where I will go over the expectations and what you will be experiencing during these two quarters. Date and time TBA**. All other methodology instruction will be provided asynchronously on this website. 
 - Make sure you can access the following sites; email the instructor if you can't:
-    -  [Gradescope](https://www.gradescope.com/courses/1406963), where all assignments will be submitted.
-    - [Piazza](https://piazza.com/ucsd/fall2026/dsc180), the discussion forum we will use for methodology. **All class-wide announcements will only be posted here!**
+    -  [Gradescope](#), where all assignments will be submitted.
+    - [Piazza](#), the discussion forum we will use for methodology. **All class-wide announcements will only be posted here!**
 
 Note that we will **not** be using Canvas at all this quarter.
 
@@ -55,7 +55,7 @@ Note that we will **not** be using Canvas at all this quarter.
 
 As mentioned in the [Overview](#overview), the primary goal of Quarter 1 is to get you acquainted with your mentor's domain. The main deliverable in Quarter 1 is the "Quarter 1 Project", which you will work on gradually throughout the quarter by completing the tasks that your mentor assigns you. The Quarter 1 Project is due at the end of the quarter, but a checkpoint is due in early November to make sure you're on track.
 
-You will complete your Quarter 1 Project either individually or in groups, depending on your mentor's preferences. Your Quarter 1 Project will serve as a foundation for your Quarter 2 Project Proposal, which you will submit by the end of the quarter. The Quarter 2 Project will be completed in groups of 2-4 starting during the winter and throughout Quarter 2. 
+You will complete your Quarter 1 Project either individually or in groups, depending on your mentor's preferences. Your Quarter 1 Project will serve as a foundation for your Quarter 2 Project Proposal, which you will submit by the end of the quarter. The Quarter 2 Project will be completed in groups of 3-6 during  Quarter 2. 
 
 Note: You may not get to choose who your "partners" are, as that may be up to your mentor; like in industry or academia, groups will be formed using a variety of factors, including academic background, mutual interests, and perhaps a little randomness.
 
@@ -77,9 +77,9 @@ Based on feedback from prior iterations of the capstone, we've decided to delive
 
 ### Discussion (Domain)
 
-Each week, you will meet with your domain mentor for an hour in discussion section. You can see the time of your discussion meeting on the [Enrollment](https://dsc-capstone.org/enrollment) page.  **Attendance in discussion section is mandatory, and you must notify your mentor in advance if you can't make it in a particular week. Any unexplained absences will reflect on your grade for the quarter** 
+Each week, you will meet with your domain mentor for an hour in discussion section. You can see the time of your discussion meeting on the [Enrollment](https://dsc-capstone.org/domains-winter-spring) page.  **Attendance in discussion section is mandatory, and you must notify your mentor in advance if you can't make it in a particular week. Any unexplained absences will reflect on your grade for the quarter** 
 
-Each week, your domain mentor will assign you a combination of readings and tasks to complete, along with "participation" questions to answer to ensure that you've engaged with the material. You must complete these participation questions **24 hours before discussion**, as your responses to them will drive the class discussion. Your mentor may provide you with specific participation questions to answer; if not, you should answer [these](https://dsc-capstone.org/2026-27/assignments/participation/q1) "default" participation questions. You should complete the other tasks they assign you before discussion as well, though you may not have to submit them anywhere. Later in the quarter, you will brainstorm project proposals in discussion as well.
+Each week, your domain mentor will assign you a combination of readings and tasks to complete, along with "participation" questions to answer to ensure that you've engaged with the material. You must complete these participation questions **24 hours before discussion**, as your responses to them will drive the class discussion. Your mentor may provide you with specific participation questions to answer; if not, you should answer [these](https://dsc-capstone.org/2026-27-ws/assignments/participation/q1) "default" participation questions. You should complete the other tasks they assign you before discussion as well, though you may not have to submit them anywhere. Later in the quarter, you will brainstorm project proposals in discussion as well.
 
 Note that discussion section will consist of **discussion**, not lecture. As such, **if you do not ask questions in discussion section, no discussion will
 occur.** To get the most out of the capstone program, you should actively participate in discussion section. In the workplace, you will often need to communicate with your coworkers and ask questions when you don't understand things, and the same is true here.
@@ -88,8 +88,8 @@ occur.** To get the most out of the capstone program, you should actively partic
 ### Office Hours
 
 There are two flavors of office hours:
-- **Methodology office hours**, held by the methodology (DSC 180A) course staff. Come to these office hours with questions on methodology lectures and assignments, and on how to apply methodology concepts to your domain work. See the [Office Hours](https://dsc-capstone.org/2026-27/office-hours) page on the course website for the schedule.
-    - Note that different TAs have expertise in different areas; see the [Staff](https://dsc-capstone.org/2026-27/staff) page for a listing on each TA's area of expertise.
+- **Methodology office hours**, held by the methodology (DSC 180A) course staff. Come to these office hours with questions on methodology lectures and assignments, and on how to apply methodology concepts to your domain work. See the [Office Hours](https://dsc-capstone.org/2026-27-ws/office-hours) page on the course website for the schedule.
+    - Note that different TAs have expertise in different areas; see the [Staff](https://dsc-capstone.org/2026-27-ws/staff) page for a listing on each TA's area of expertise.
 - **Domain office hours**, held by your domain mentor. Come to these office hours with questions on the readings or tasks your mentor assigned you or on your projects. Your mentor will tell you when these are.
     - You will be required to attend your mentor's office hours at least three times throughout the quarter to get a good participation grade.
 
@@ -106,10 +106,10 @@ The table below summarizes all the ways you will be assessed in Quarter 1.
 |Component|Description|Due|Weight|Grading Notes|
 |---|---|---|
 |[Methodology assignments](../) | Assignments that develop your software development and project management skills. Submitted individually. | There will be at least 5. If there are more than 5, we will drop the lowest score in grading Methodology. | 20% | spread evenly |
-|Participation questions ([default questions](https://dsc-capstone.org/2026-27/assignments/participation/q1) or mentor-provided)| Weekly questions to keep you engaged with the material and to inform your mentor of class progress. Submitted individually. | Weekly, Sunday night or night before discussion by request of the mentor for their domain | 5%| Graded for completeness by methodology TAs |
+|Participation questions ([default questions](https://dsc-capstone.org/2026-27-ws/assignments/participation/q1) or mentor-provided)| Weekly questions to keep you engaged with the material and to inform your mentor of class progress. Submitted individually. | Weekly, Sunday night or night before discussion by request of the mentor for their domain | 5%| Graded for completeness by methodology TAs |
 |Overall participation | Engaging in conversation in discussion section is important for success in the capstone; as such, your mentor will assign you an overall participation grade at the end of the quarter that the instructor will evaluate in light of your participation in instructor surveys before assigning a final grade | N/A | 10%| Graded by mentors and the instructor  |
-| [Quarter 1 Project](https://dsc-capstone.org/2026-27/assignments/projects/q1) | A chance to put together everything you've produced while learning about your domain. Submitted individually or in groups (up to mentor). | Week 6 (checkpoint), Week 10 (final submission) | 50% | 35%: reports, graded by mentors (checkpoint + final) <br><br> 15%: code, graded by methodology TAs (checkpoint + final; graded to ensure best practices are followed) |
-| [Quarter 2 Project Proposal](https://dsc-capstone.org/2026-27/assignments/projects/q2-proposal) | Proposal for final capstone project. Submitted in groups. | Week 9 | 15% | Graded by both methodology TAs (elevator pitch) and domain mentors (schedule + write-up) |
+| [Quarter 1 Project](https://dsc-capstone.org/2026-27-ws/assignments/projects/q1) | A chance to put together everything you've produced while learning about your domain. Submitted individually or in groups (up to mentor). | Week 6 (checkpoint), Week 10 (final submission) | 50% | 35%: reports, graded by mentors (checkpoint + final) <br><br> 15%: code, graded by methodology TAs (checkpoint + final; graded to ensure best practices are followed) |
+| [Quarter 2 Project Proposal](https://dsc-capstone.org/2026-27-ws/assignments/projects/q2-proposal) | Proposal for final capstone project. Submitted in groups. | Week 9 | 15% | Graded by both methodology TAs (elevator pitch) and domain mentors (schedule + write-up) |
 
 {: .red }
 **Note that the table contains links to assignment descriptions; the Quarter 1 Project and Quarter 2 Project Proposal details are _tentative_, and won't be finalized until they are officially released. We will make Piazza announcements when these components are finalized.**
@@ -141,25 +141,25 @@ your "numerical" grade would be $$0.1 \cdot 4 + 0.05 \cdot 4 + 0.05 \cdot 3 + 0.
 
 You are guaranteed to earn **at least** the letter grade that your numerical grade converts to. For instance, a 3.7 is guaranteed to learn at least an A-, and a 2.0 is guaranteed to earn at least a C. When your numerical grade is between two letter grades, you are guaranteed to earn at least the **lower letter grade**; for instance, 3.8 is between 3.7 (A-) and 4.0 (A), so a 3.8 is guaranteed to learn at least an A-.
 
-Note that at the end of Fall 2025 you will receive a grade in DSC 180A, and at the end of Winter 2026 you will receive a grade in DSC 180B; these are two separate courses, each worth 4 units.
+Note that at the end of the first quarter you will receive a grade in DSC 180A, and at the end of second quarter you will receive a grade in DSC 180B; these are two separate courses, each worth 4 units.
 
 With all of that said, in this course, you should not worry about your letter grade. The grades you receive on individual components of the course are meant to provide you with feedback on how to improve future submissions. **To be successful in this course, you should strive to have engaging interactions with your domain mentor and to produce work that you are proud of.** Nobody will remember whether you got an A- or a B in the capstone, but they will remember if you produce a stellar final project.
 
 ---
-# Quarter 2 (DSC 180B, Winter 2026)
+# Quarter 2 (DSC 180B)
 
-In Quarter 2, you will execute your [Quarter 2 Project](https://dsc-capstone.org/2026-27/assignments/projects/q2), the proposal for which you submitted at the end of Quarter 1. You will also prepare to present your work to a variety of audiences, in a variety of formats (most notably, as a poster at our **in-person capstone showcase** on Friday, March 13th).
+In Quarter 2, you will execute your [Quarter 2 Project](https://dsc-capstone.org/2026-27-ws/assignments/projects/q2), the proposal for which you submitted at the end of Quarter 1. You will also prepare to present your work to a variety of audiences, in a variety of formats (most notably, as a poster at our **in-person capstone showcase** on Friday, March 13th).
 
 ## Getting Started
 
 A few things to note before the quarter begins:
 
-- Sections begin during Week 1 (note there isn't a week 0 for the winter quarter). Confirm the modality, venue if applicable, date and time of your discussion section with your mentor.
+- Sections begin during Week 1. Confirm the modality, venue if applicable, date and time of your discussion section with your mentor.
   - Make sure to enroll in your section ASAP if you haven't already, and to start participating from Day 1.
-- There are no new methodology lessons or assignments in Quarter 2. Everything you'll be required to submit will be in some way related to your Quarter 2 Project, and all deadlines are on the course homepage. There are, however, [Office Hours](https://dsc-capstone.org/2026-27/office-hours) held by the methodology TAs each week.
+- There are no new methodology lessons or assignments in Quarter 2. Everything you'll be required to submit will be in some way related to your Quarter 2 Project, and all deadlines are on the course homepage. There are, however, [Office Hours](https://dsc-capstone.org/2026-27-ws/office-hours) held by the methodology TAs each week.
 - Make sure you can access the following sites; email the instructor if you can't:
-    - The **new** WI 2026 [Gradescope](https://www.gradescope.com/courses/1406963), where all assignments will be submitted.
-    - We will use the same [Piazza](https://piazza.com/ucsd/fall2026/dsc180) instance as we did in the fall. **All class-wide announcements will be sent here!**
+    - The **new** WI 2026 [Gradescope](#), where all assignments will be submitted.
+    - We will use the same [Piazza](#) instance as we did in the first quarter. **All class-wide announcements will be sent here!**
 
 ---
 
@@ -177,27 +177,27 @@ As in Quarter 1, discussion section will focus on your domain. Each week, a repr
 
 The weekly check-in gives you an opportunity to practice talking about technical material, solicit feedback from your mentor, and learn from other teams' successes and obstacles. As such, **attendance in discussion each week is mandatory, like in Quarter 1**. If you're unable to attend in a given week, work out an arrangement with your mentor in advance.
 
-**With that all said, you're expected to meet with your group at least once per week outside of your discussion section.** To make sure that all group members are on track, we'll have you create a running Google Doc in which your group details who did what each week, and submit a snapshot of it each Sunday by 11:59PM. This constitutes the [Participation](https://dsc-capstone.org/2026-27/assignments/participation/q2) assignment this quarter. In addition, you will also need to meet your TAs every week to explain progress and ensure that EACH member has contributed to the project.  The onus is on YOU to set up a weekly appointment with your TA. All members MUST be present. These meetings may happen online. 
+**With that all said, you're expected to meet with your group at least once per week outside of your discussion section.** To make sure that all group members are on track, we'll have you create a running Google Doc in which your group details who did what each week, and submit a snapshot of it each Sunday by 11:59PM. This constitutes the [Participation](https://dsc-capstone.org/2026-27-ws/assignments/participation/q2) assignment this quarter. In addition, you will also need to meet your TAs every week to explain progress and ensure that EACH member has contributed to the project.  The onus is on YOU to set up a weekly appointment with your TA. All members MUST be present. These meetings may happen online. 
 
 ### Office Hours
 
-In addition to any office hours your mentor may hold, TAs will also hold office hours to help you resolve technical problems with your deliverables. See the [Office Hours](https://dsc-capstone.org/2026-27/office-hours) page for the schedule. Your TA will remain the same througout the quarter.
+In addition to any office hours your mentor may hold, TAs will also hold office hours to help you resolve technical problems with your deliverables. See the [Office Hours](https://dsc-capstone.org/2026-27-ws/office-hours) page for the schedule. Your TA will remain the same througout the quarter.
 
 ## Assignments and Grades
 
-See [Quarter 2 Project](https://dsc-capstone.org/2026-27/assignments/projects/q2) spec for a description of all project deliverables, and the [course homepage](../) for all due dates.
+See [Quarter 2 Project](https://dsc-capstone.org/2026-27-ws/assignments/projects/q2) spec for a description of all project deliverables, and the [course homepage](../) for all due dates.
 
 _Note: These weights may change slightly during the first two weeks of the quarter._
 
 | Component | Description | Weight |
 | --- | --- | --- |
 | Checkpoints | Each component of the Quarter 2 Project has a checkpoint to ensure that you're on track. | 10% |
-| Project Deliverable | If your project is a traditional methods or analysis project, your primary deliverable is your **report**. <br><br> If your project is building a product (e.g. an application or dashboard), your primary deliverable is your **product** itself which needs to be demonstrated to the TAs and mentors. However, a report is required to be submitted by all and is the entity that is graded formally. See the [Quarter 2 Project](https://dsc-capstone.org/2026-27/assignments/projects/q2) spec for more details. |  40% |
+| Project Deliverable | If your project is a traditional methods or analysis project, your primary deliverable is your **report**. <br><br> If your project is building a product (e.g. an application or dashboard), your primary deliverable is your **product** itself which needs to be demonstrated to the TAs and mentors. However, a report is required to be submitted by all and is the entity that is graded formally. See the [Quarter 2 Project](https://dsc-capstone.org/2026-27-ws/assignments/projects/q2) spec for more details. |  40% |
 | Project Website| Each team will have to put together a website describing your project in detail. For those building a product, this product should be accessible from the website. | 7.5% |
 | Poster presentation | Your produced poster and presentations at the [**in-person capstone showcase**](#) will be graded on polish and clarity. | 10% |
 | Code artifact | Your final code submission will be graded based on the methodological standards introduced in Lesson 3 of Quarter 1. | 7.5% |
 | Ethics Assignments | Answering questions about ethics issues in your project and societal impacts | 5% |
-| [Participation](https://dsc-capstone.org/2026-27/assignments/participation/q2) | Weekly prompts that require you to document each group member's progress so far and how your project plans have evolved and presenting them satisfactorily to your TA | 15% |
+| [Participation](https://dsc-capstone.org/2026-27-ws/assignments/participation/q2) | Weekly prompts that require you to document each group member's progress so far and how your project plans have evolved and presenting them satisfactorily to your TA | 15% |
 | Overall participation | As in Quarter 1, your mentor will assign you an overall participation grade at the end of the quarter. | 5% |
 
 ### Grading Policy
