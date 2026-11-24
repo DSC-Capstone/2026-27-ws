@@ -10,9 +10,9 @@ nav_order: 1
 {: .fs-6 .fw-300 }
 
 {: .green }
-**This is the student-facing course website for the 2026-27 offering of the capstone sequence. See [dsc-capstone.org](https://dsc-capstone.org) for general information.**
+**This is the student-facing course website for the 2026-27 Winter Spring offering of the capstone. See [dsc-capstone.org](https://dsc-capstone.org) for general information.**
 
-** Note: This schedule is subject to change. We expect this schedule to stabilize by mid Oct for the Fall quarter and by mid-January for the Winter Quarter **
+** Note: This schedule is subject to change up to the 2nd week of each quarter**
 
 
 <!--### Winter 2027 Schedule
@@ -94,11 +94,12 @@ nav_order: 1
     <tbody> 
         <tr>
             <td>0</td>
-            <td>Live on Monday, Oct 5 (Subject to finding a venue): <a href="https://docs.google.com/presentation/d/15i-XM3iOhB1bxJ1kFUMPBcbPgwsk53dheU6IL9mUcAw/edit?usp=sharing">Introduction</a><br>Read the <a href="https://dsc-capstone.org/2026-27/syllabus"> Syllabus</a> <br><a href="lessons/01a">AWS Fundamentals: S3 and EC2</a></td>
+            <td>Live on Saturday, January 9th, 2027 (Subject to finding a venue): <a href="https://docs.google.com/presentation/d/15i-XM3iOhB1bxJ1kFUMPBcbPgwsk53dheU6IL9mUcAw/edit?usp=sharing">Introduction</a><br>Read the <a href="https://dsc-capstone.org/2026-27/syllabus"> Syllabus</a> <br><a href="lessons/01a">AWS Fundamentals: S3 and EC2</a></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
+        <!--
         <tr>
             <td>1</td>
             <td><a href="lessons/01">Servers I: Accessing DSMLP</a></td>
@@ -163,6 +164,7 @@ nav_order: 1
             <td>No lesson.</td>
             <td colspan=2><b><p style="color: red">Submit your Q1 project as well as the Q2 project proposal (By 11.59pm, Friday, Dec 4th)</p></b></td>
         </tr>
+        -->
     </tbody>
 </table>
 ---
