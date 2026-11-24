@@ -24,8 +24,8 @@ This page contains all of the information you need to know as a domain mentor. C
 
 There are several action items mentioned throughout this page; they are summarized here.
 
-- [ ] Check the [**Domain Descriptions page**](https://dsc-capstone.org/domains-Second-spring) to check that your section is listed correctly. If you're teaching in-person, the location of the new HDSI building can be found [here](https://map.concept3d.com/?id=1005#!m/246301). IF any of the information on the domains description page is incorrect or needs to be changed for any reason, please contact the instructor ASAP. 
-- [ ] (Optional) Create a [website](#websites) or Drive folder for your section to share with your students. If you'd like your website to be linked on the [enrollment page](https://dsc-capstone.org/domains-Second-spring), let the instructor know.
+- [ ] Check the [**Domain Descriptions page**](https://dsc-capstone.org/domains-winter-spring) to check that your section is listed correctly. If you're teaching in-person, the location of the new HDSI building can be found [here](https://map.concept3d.com/?id=1005#!m/246301). IF any of the information on the domains description page is incorrect or needs to be changed for any reason, please contact the instructor ASAP. 
+- [ ] (Optional) Create a [website](#websites) or Drive folder for your section to share with your students. If you'd like your website to be linked on the [enrollment page](https://dsc-capstone.org/domains-winter-spring), let the instructor know.
   - [ ] (Optional) Create a Slack/Discord/Ed group for your section to share  with your students.
 
 **Remember that sections begin the Week 1 of the first quarter.** If you are meeting on days that are holidays (such as Veteran's day or Thanksgiving), please reschedule your sessions in those weeks with sufficient advance notice. 
