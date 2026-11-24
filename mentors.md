@@ -25,7 +25,7 @@ This page contains all of the information you need to know as a domain mentor. C
 There are several action items mentioned throughout this page; they are summarized here.
 
 - [ ] Check the [**Domain Descriptions page**](https://dsc-capstone.org/domains-winter-spring) to check that your section is listed correctly. If you're teaching in-person, the location of the new HDSI building can be found [here](https://map.concept3d.com/?id=1005#!m/246301). IF any of the information on the domains description page is incorrect or needs to be changed for any reason, please contact the instructor ASAP. 
-- [ ] (Optional) Create a [website](#websites) or Drive folder for your section to share with your students. If you'd like your website to be linked on the [enrollment page](https://dsc-capstone.org/domains-winter-spring), let the instructor know.
+- [ ] (Optional) Create a [website](#websites) or Drive folder for your section to share with your students. If you'd like your website to be linked on the [Domains Description page](https://dsc-capstone.org/domains-winter-spring), let the instructor know.
   - [ ] (Optional) Create a Slack/Discord/Ed group for your section to share  with your students.
 
 **Remember that sections begin the Week 1 of the first quarter.** If you are meeting on days that are holidays (such as Veteran's day or Thanksgiving), please reschedule your sessions in those weeks with sufficient advance notice. 
@@ -39,7 +39,7 @@ The capstone program is a **two-quarter sequence**  in which you, a domain exper
 - students have material to follow and learn from when developing their own work, and
 - the scope of projects remain manageable for the time frame and appropriate for the level of the students.
 
-Students were shown the domain topics and descriptions that you provided [here](https://dsc-capstone.org/enrollment) in advance of the enrollment period and have already enrolled at this point. 
+Students were shown the domain topics and descriptions that you provided [here](https://dsc-capstone.org/domains-winter-spring) in advance of the enrollment period and have already enrolled at this point. 
 
 {: .blue }
 To help you calibrate your expectations, you should look at [last year's projects](https://dsc-capstone.org/showcase-26) if you haven't already.
@@ -145,7 +145,7 @@ feedback and guidance from domain mentors. The weekly schedule tries
 to facilitate that.**
 
 {: .red }
-Remember, discussions begin during Week 1 of the first Quarter. Check UCSD's academic calendar to find when this begins. Check [dsc-capstone.org/enrollment](https://dsc-capstone.org/domains-winter-spring) to see where and when your section is. If you're running your sections through Zoom, send your students your Zoom link via email - we will let you know who they are via an email closer to the start of the quarter.
+Remember, discussions begin during Week 1 of the first Quarter. Check UCSD's academic calendar to find when this begins. Check [dsc-capstone.org/domains-winter-spring](https://dsc-capstone.org/domains-winter-spring) to see where and when your section is. If you're running your sections through Zoom, send your students your Zoom link via email - we will let you know who they are via an email closer to the start of the quarter.
 
 <a name='participation-questions'></a>
 
