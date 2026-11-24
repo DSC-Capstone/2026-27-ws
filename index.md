@@ -94,7 +94,7 @@ nav_order: 1
     <tbody> 
         <tr>
             <td>0</td>
-            <td>Live on Saturday, January 9th, 2027 (Subject to finding a venue): <a href="https://docs.google.com/presentation/d/15i-XM3iOhB1bxJ1kFUMPBcbPgwsk53dheU6IL9mUcAw/edit?usp=sharing">Introduction</a><br>Read the <a href="https://dsc-capstone.org/2026-27/syllabus"> Syllabus</a> <br><a href="lessons/01a">AWS Fundamentals: S3 and EC2</a></td>
+            <td>Live on Saturday, January 9th, 2027 (Subject to finding a venue): <a href="https://docs.google.com/presentation/d/15i-XM3iOhB1bxJ1kFUMPBcbPgwsk53dheU6IL9mUcAw/edit?usp=sharing">Introduction</a><br>Read the <a href="https://dsc-capstone.org/2026-27-ws/syllabus"> Syllabus</a> <br><a href="lessons/01a">AWS Fundamentals: S3 and EC2</a></td>
             <td></td>
             <td></td>
             <td></td>
