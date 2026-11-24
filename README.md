@@ -1,2 +1,2 @@
-# 2025-26
-Website for the 2025-26 offering of the DSC Capstone.
+# 2026-27 Winter Spring
+Website for the 2026-27 Winter Spring offering of the DSC Capstone.
