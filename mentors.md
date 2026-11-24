@@ -24,17 +24,17 @@ This page contains all of the information you need to know as a domain mentor. C
 
 There are several action items mentioned throughout this page; they are summarized here.
 
-- [ ] Check the [**enrollment page**](https://dsc-capstone.org/enrollment) to check that your section is listed correctly. If you're teaching in-person, the location of the new HDSI building can be found [here](https://map.concept3d.com/?id=1005#!m/246301). IF any of the information on the enrollment page is incorrect or needs to be changed for any reason, please contact the instructor ASAP. 
-- [ ] (Optional) Create a [website](#websites) or Drive folder for your section to share with your students. If you'd like your website to be linked on the [enrollment page](https://dsc-capstone.org/enrollment), let the instructor know.
+- [ ] Check the [**Domain Descriptions page**](https://dsc-capstone.org/domains-Second-spring) to check that your section is listed correctly. If you're teaching in-person, the location of the new HDSI building can be found [here](https://map.concept3d.com/?id=1005#!m/246301). IF any of the information on the domains description page is incorrect or needs to be changed for any reason, please contact the instructor ASAP. 
+- [ ] (Optional) Create a [website](#websites) or Drive folder for your section to share with your students. If you'd like your website to be linked on the [enrollment page](https://dsc-capstone.org/domains-Second-spring), let the instructor know.
   - [ ] (Optional) Create a Slack/Discord/Ed group for your section to share  with your students.
 
-**Remember that sections begin the Week 1 of the Fall quarter.** If you are meeting on days that are holidays (such as Veteran's day or Thanksgiving), please reschedule your sessions in those weeks with sufficient advance notice. 
+**Remember that sections begin the Week 1 of the first quarter.** If you are meeting on days that are holidays (such as Veteran's day or Thanksgiving), please reschedule your sessions in those weeks with sufficient advance notice. 
 
 ---
 
 ## Introduction
 
-The capstone program is a **two-quarter sequence** (Fall and Winter quarters) in which you, a domain expert, act as a mentor for student projects. You will host a single domain of inquiry, in which 4-12 students are enrolled, and within your domain, students will form project teams of 2-4. This means that ultimately your domain will consist of 1-5 teams, each of which are working on different projects that relate to your domain. We've structured the capstone program in this way to ensure that:
+The capstone program is a **two-quarter sequence**  in which you, a domain expert, act as a mentor for student projects. You will host a single domain of inquiry, in which 4-12 students are enrolled, and within your domain, students will form project teams of 2-4. This means that ultimately your domain will consist of 1-5 teams, each of which are working on different projects that relate to your domain. We've structured the capstone program in this way to ensure that:
 - there are adequate guard-rails for students new to independent work,
 - students have material to follow and learn from when developing their own work, and
 - the scope of projects remain manageable for the time frame and appropriate for the level of the students.
@@ -52,8 +52,8 @@ As mentioned above, the capstone program spans two quarters. In both the quarter
 
 | Quarter | Domain | Methodology |
 | --- | --- | --- |
-| 1 (Fall Quarter) | Getting students up to speed in the domain by working on a guided project. Creating a capstone proposal.  | Software development, reproducibility, environment independence |
-| 2 (Winter Quarter) | Working on an original project proposed in the previous quarter | Project management, effective communication skills |
+| 1 (first Quarter) | Getting students up to speed in the domain by working on a guided project. Creating a capstone proposal.  | Software development, reproducibility, environment independence |
+| 2 (Second Quarter) | Working on an original project proposed in the previous quarter | Project management, effective communication skills |
 
 ### Domain-Specific Instruction
 
@@ -108,7 +108,7 @@ You should plan to be flexible; for instance, it's quite possible that not all o
 One way to share your weekly schedule, readings, and tasks with your students is through a website. You can see example websites from domains in previous years below. **If you've never run a domain before, it's highly recommended to look at these websites to understand what a typical schedule looks like.**
 
 - Aaron Fraenkel: [Understanding Code Through Graphs (Malware Detection)](https://afraenkel.github.io/capstone-malware-domain)
-- Jingbo Shang: [Text Mining and NLP](https://shangjingbo1226.github.io/teaching/2021-fall-DSC180a-capstone)
+- Jingbo Shang: [Text Mining and NLP](https://shangjingbo1226.github.io/teaching/2021-first-DSC180a-capstone)
 - Tiffany Amariuta: [Genetic risk prediction of gene expression, complex traits, and polygenic disease](https://tiffanyamariuta.github.io/capstone-genetic-risk-prediction/) 
 - Justin Eldridge: [The Spread of Misinformation Online
 ](https://eldridgejm.github.io/dsc180-2021-misinformation/index.html)
@@ -145,7 +145,7 @@ feedback and guidance from domain mentors. The weekly schedule tries
 to facilitate that.**
 
 {: .red }
-Remember, discussions begin during Week 1 of the Fall Quarter. Check UCSD's academic calendar to find when this begins. Check [dsc-capstone.org/enrollment](https://dsc-capstone.org/enrollment) to see where and when your section is. If you're running your sections through Zoom, send your students your Zoom link via email - we will let you know who they are via an email closer to the start of the quarter.
+Remember, discussions begin during Week 1 of the first Quarter. Check UCSD's academic calendar to find when this begins. Check [dsc-capstone.org/enrollment](https://dsc-capstone.org/domains-winter-spring) to see where and when your section is. If you're running your sections through Zoom, send your students your Zoom link via email - we will let you know who they are via an email closer to the start of the quarter.
 
 <a name='participation-questions'></a>
 
@@ -216,7 +216,7 @@ If any changes are necessary to the above rubric for a particular assignment, we
 
 Final grades will be computed using the grade-points above, using the
 proportions given in the course components table. Letter grades will
-be assigned using the standard university cutoffs. At the end of Fall 2025 students will receive a grade in DSC 180A, and at the end of Winter 2026 they will receive a grade in DSC 180B; each course is worth 4 units.
+be assigned using the standard university cutoffs. At the end of first 2025 students will receive a grade in DSC 180A, and at the end of Second 2026 they will receive a grade in DSC 180B; each course is worth 4 units.
 
 ### Technology
 
